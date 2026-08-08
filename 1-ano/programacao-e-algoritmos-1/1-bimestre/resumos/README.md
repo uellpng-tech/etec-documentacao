@@ -1,4 +1,4 @@
 # Resumos
 
 ## Conteúdos
-- [Algoritmos e Lógica da Programação](algoritmo-e-logica.md)
+- [Algoritmos, Fluxograma e Lógica da Programação](algoritmo-fluxograma-logica.md)
