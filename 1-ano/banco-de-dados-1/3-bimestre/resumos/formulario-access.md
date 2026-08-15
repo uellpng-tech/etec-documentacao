@@ -37,3 +37,7 @@ Além desse conceito de modo, a á possibilidade de criação padrão de formul�
 5. Dentro da aba escolhemos a terceira aba "Designers de Objetos", dentro do design de objetos rolamos um pouco para baixo e escolhemos a opção de "Modelo de formulário" que se encontra na gama "Modo de exibição de design de Formulário/Relatório";
 
 6. Depois de escolher o formulário através de seu nomes, basta clicar no botão no canto inferior "Ok".
+
+## Resumos relacionados
+
+- [Introdução a Ferramenta Microsoft Access](introducao-access.md)
